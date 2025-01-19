@@ -17,13 +17,13 @@ Floor Seasons Utah is a custom WordPress website designed for a floor cleaning b
 - [Learned](#Learned)
 - [License](#License)
 - [Authors](#Authors)
-#
+
 
 ## Overview
-### The Challenge:
+# The Challenge:
 The primary objective was to create a WordPress website for Floor Seasons Utah that is easy to use for customers booking floor cleaning services. The website needed to offer user-friendly navigation and booking functionality. The Kadence Theme was used as the base theme, which was then stripped down and redesigned for the specific needs of the client. Amelia, a booking plugin, was integrated to handle online appointment scheduling seamlessly.
 
-## Requirements for the Project:
+# Requirements for the Project:
 - WordPress installation for the base platform.
 - Kadence Theme used for creating a responsive and customizable website layout.
 - Amelia Plugin for appointment booking and scheduling functionality.
@@ -31,7 +31,7 @@ The primary objective was to create a WordPress website for Floor Seasons Utah t
 - Use PHP for backend functionality such as customizing theme templates and integrating plugins.
 - Design and develop the frontend to reflect the branding and business services of Floor Seasons Utah.
 
-## Built With:
+# Built With:
 - **WordPress**: Platform used for content management.
 - **Kadence Theme**: Theme used for the design layout and customization. [Kadence Theme Website](https://www.kadencewp.com)
 - **Amelia Plugin**: Plugin used for appointment scheduling. [Amelia Plugin Website](https://wpamelia.com)
@@ -40,7 +40,7 @@ The primary objective was to create a WordPress website for Floor Seasons Utah t
 - **JavaScript**: For interactivity in certain sections.
 - **DreamHost**: Hosting provider. [DreamHost Website](https://www.dreamhost.com)
 
-## Code Snippets of our project:
+# Code Snippets of our project:
 ### Customizing the Kadence Theme Header with PHP:
 ```php
 // Add custom code to Kadence theme's header
@@ -136,7 +136,7 @@ add_action('template_redirect', 'redirect_after_appointment_booking');
 ABOVE: This snippet redirects users to a "Thank You" page after they book an appointment, improving the user experience by confirming their action and providing next steps.
 #
 
-### Learned:
+# Learned:
 Throughout the project, several key lessons were learned that enhanced both my WordPress and PHP development skills:
 
 #### Custom Theme Development:
@@ -151,7 +151,7 @@ Creating a user-friendly interface for the booking system was crucial. I focused
 #### Backend Customization:
 While I didn't need to make deep backend changes, I worked with various PHP hooks to integrate the frontend booking system with the backend functionality of the plugin, ensuring everything worked smoothly. This project enhanced my understanding of WordPress's architecture and the importance of maintaining compatibility with plugins.
 
-### License & Copyright ©:
+# License & Copyright ©:
 License: MIT Open Source Initiative Link
 
 Copyright © 2023 A&A Software Innovations
@@ -164,7 +164,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Authors:
+# Authors:
 - Follow us on Github at [AmandaGray](https://github.com/Berkeleycodingmomma)!
 - Follow us on Github at [AustinZumbro](https://github.com/austinzumbro)! 
 
