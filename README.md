@@ -5,7 +5,8 @@
 ## Description:
 Floor Seasons Utah is a custom WordPress website designed for a floor cleaning business. The website integrates the Kadence Theme for fully customizable design and the Amelia Booking Plugin for seamless appointment scheduling. The site allows users to view available services and easily schedule appointments online. The frontend design was completely customized using PHP, HTML, and CSS to meet the client's business needs, creating a user-friendly and professional online presence.
 #
-<img width="1424" alt="Screen Shot 2025-01-19 at 4 52 20 PM" src="https://github.com/user-attachments/assets/32d817ba-500a-4b2a-8284-8d21b952d700" />
+<img width="1420" alt="Screen Shot 2025-01-19 at 4 55 26 PM" src="https://github.com/user-attachments/assets/b3f179c3-8acd-45eb-98d1-395137a39eb1" />
+
 
 ## Deployed Live Link: [Floor Seasons](https://www.floorseasonsutah.com/)
 
